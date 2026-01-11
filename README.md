@@ -62,3 +62,15 @@ Focusing on ergonomics, surface modeling, and aesthetic appeal.
 └── Learning_Exercises/
     ├── Exercise_02/
     └── Exercise_03/
+    
+🚀 How to View My Designs
+Fusion 360: Download the .f3d or .f3z files to view the full timeline and assembly constraints.
+
+STL Viewer: Use the .stl files for quick 3D previews or to import directly into a slicer (Cura/PrusaSlicer).
+
+📫 Let's Connect!
+I am always looking for opportunities to collaborate on Robotics, Automotive, or Product Design projects.
+
+GitHub: @thechaitanyasharma
+
+Email: chaitanyasharma700@gmail.com
