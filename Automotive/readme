@@ -1,0 +1,63 @@
+# 🏎️ Automotive & Mechanical CAD Portfolio
+### Design | Kinematics | Prototyping
+
+Welcome to my automotive engineering repository. This collection features high-fidelity 3D models and mechanical assemblies developed in **Autodesk Fusion 360**, with a primary focus on internal combustion engine components and complex motion systems.
+
+---
+
+## 🚀 Featured Project: V6 Internal Combustion Engine
+
+This is a comprehensive assembly of a 6-cylinder engine, focusing on the mechanical synchronization between the crankshaft and the piston groups.
+
+
+
+### Technical Highlights:
+* **Kinematic Constraints:** Fully defined joints for the crankshaft, connecting rods, and pistons.
+* **Interference Checking:** Verified clearances between the counterweights and the engine block.
+* **Components Included:** Pistons, Wrist Pins, Connecting Rods, Crankshaft, and Main Bearings.
+
+
+
+---
+
+## 📂 Project Catalog
+
+### 1. Piston Engine Prototyping (`.stl`)
+A standalone piston engine model optimized for **Additive Manufacturing (3D Printing)**. 
+* **Design for Assembly (DFA):** Engineered with tolerances suitable for FDM/SLA printing.
+* **Education Focus:** Designed to demonstrate the conversion of reciprocating motion to rotational motion.
+
+### 2. Industrial Mechanical Assemblies
+Beyond automotive, this repository includes standard industrial mechanical components:
+* **Plummer Block Assembly:** Heavy-duty bearing housing with integrated constraints.
+* **Knuckle Joint:** A study in tensile load distribution and pin-joint mechanics.
+* **V-Block Assembly:** Precision work-holding geometry for quality inspection.
+
+---
+
+## 🛠 Technical Skillset
+
+* **Software:** Autodesk Fusion 360, SolidWorks.
+* **CAD Techniques:** Parametric Modeling, Bottom-Up & Top-Down Assembly, Surface Modeling.
+* **Engineering:** Kinematic Motion Studies, Tolerance Stack-up Analysis, DfM (Design for Manufacturing).
+
+---
+
+## 📸 Visual Gallery
+
+<p align="center">
+  <img src="./assets/v6-engine-render.png" width="45%" alt="V6 Engine View" />
+  <img src="./assets/piston-motion.gif" width="45%" alt="Piston Motion Study" />
+</p>
+
+---
+
+## 📂 Repository Structure
+```text
+├── Automotive/
+│   ├── Engine_V6/            # .f3d Fusion 360 Source
+│   └── Piston_Engine/        # .stl Print-ready files
+├── Industrial_Components/
+│   ├── Plummer_Block/
+│   └── Knuckle_Joint/
+└── Assets/                 
