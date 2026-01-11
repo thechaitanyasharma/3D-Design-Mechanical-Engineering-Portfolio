@@ -1,58 +1,52 @@
-# 🏎️ Automotive & Power Systems Portfolio
-### Mechanical Kinematics | Assembly Design | Engine Logic
+# 🏎️ Automotive Engineering & Power Systems
 
-This directory contains my high-fidelity automotive engineering projects. These models focus on the mechanical synchronization of internal combustion components, precision assembly, and motion study analysis within **Autodesk Fusion 360**.
+### Kinematic Analysis | Mechanical Assemblies | Precision CAD Design
 
----
-
-## 🚀 Featured Projects
-
-### 1. V6 Internal Combustion Engine (`Engine_V6.f3d`)
-A comprehensive multi-part assembly of a 6-cylinder engine. This project was a deep dive into complex joint constraints and timing logic.
-
-
-
-**Technical Highlights:**
-* **Crankshaft Kinematics:** Fully defined rotational joints with specific stroke lengths for each piston.
-* **Piston Timing:** Modeled to simulate the firing order and reciprocating motion relative to the crankshaft.
-* **Interference Analysis:** Performed to ensure zero collision between counterweights and the engine block during high-speed rotation simulations.
-
-
-
-### 2. Piston Engine Prototype (`Piston_Engine.stl`)
-A standalone engine model optimized for **Additive Manufacturing** and educational demonstration.
-
-* **Design for Assembly (DFA):** Engineered with specific tolerances to allow for 3D printed movement without post-processing.
-* **Sectional Study:** Designed to show the internal mechanism clearly for educational use cases.
-
-
+This repository showcases high-precision 3D models of internal combustion engine systems, highlighting expertise in complex mechanical assemblies, motion-driven constraints, and design optimized for both simulation and physical prototyping.
 
 ---
 
-## 🛠 Engineering Skillset
+## 📂 Project 1: V6 Internal Combustion Engine (`Engine_V6.f3d`)
 
-* **Assembly Logic:** Bottom-up and Top-down design methodologies.
-* **Joint Constraints:** Expertise in Revolute, Slider, and Cylindrical joints for mechanical simulation.
-* **Motion Studies:** Creating animations to verify the mechanical logic of a design before prototyping.
-* **Exploded Views:** Documentation of part relationships and assembly sequences.
+A fully detailed six-cylinder engine assembly created in **Autodesk Fusion 360**, focusing on accurate kinematic behavior and real-world mechanical relationships.
 
+### 🛠 Key Engineering Features:
 
-
----
-
-## 🚀 How to View My Designs
-
-* **Fusion 360:** Download the `.f3d` files to access the full **Design Timeline**. You can scrub through the history to see the sketches, extrusions, and assembly steps I used to build the engine.
-* **STL Viewer:** The `.stl` files are ready for quick previews or to be imported directly into a 3D printing slicer like Cura or PrusaSlicer.
+* **Advanced Kinematics:** Precisely defined revolute and slider joints that replicate real crankshaft-to-piston motion across all six cylinders.
+* **Bottom-Up Assembly Strategy:** Individual components—including pistons, connecting rods, wrist pins, and crankshaft—were designed and assembled with proper tolerances and clearances.
+* **Motion & Interference Analysis:** Dynamic simulations performed to ensure collision-free operation between rotating counterweights and the engine block.
+* **Geometric Accuracy:** Realistic cylinder bank angles and piston-crown geometry reflecting actual engine design principles.
 
 ---
 
-## 📫 Let's Connect!
+## 📂 Project 2: Piston Engine Prototype (`Piston_Engine.stl`)
 
-I am always looking for opportunities to collaborate on Automotive, Robotics, or specialized Mechanical Design projects.
+A simplified piston-crank mechanism developed with a **Design for Additive Manufacturing (DfAM)** approach, intended for rapid prototyping and educational visualization.
 
-* **GitHub:** [@thechaitanyasharma](https://github.com/thechaitanyasharma)
-* **Email:** [chaitanyasharma700@gmail.com](mailto:chaitanyasharma700@gmail.com)
+### 🛠 Key Engineering Features:
+
+* **3D-Printing Optimization:** High-resolution STL geometry designed to reduce support material requirements.
+* **Prototype-Friendly Tolerances:** Adjusted clearances to ensure smooth mechanical motion after FDM or SLA printing and assembly.
+* **Educational Demonstration:** Clearly illustrates the conversion of reciprocating linear motion into rotational motion.
 
 ---
-<p align="center">Built with 🛠️ and passion by Chaitanya Sharma</p>
+
+## 🔬 Applied Engineering Competencies
+
+* **Assembly Constraint Logic:** Extensive use of As-Built Joints and motion constraints in Fusion 360.
+* **Mechanical Motion Simulation:** Realistic timing and kinematic cycle analysis.
+* **Material-Aware Design:** Models prepared for future Finite Element Analysis (FEA).
+* **DfM & DfAM Principles:** Integration of manufacturability considerations for both machining and additive manufacturing.
+
+---
+
+## 🚀 How to Use
+
+1. **Design Exploration:** Open `.f3d` files in Fusion 360 to review the complete design history and joint definitions.
+2. **3D Printing & Preview:** Import `.stl` files into slicers such as **Cura** or **PrusaSlicer** for visualization or fabrication.
+
+---
+
+**Designer:** Chaitanya Sharma
+**Contact:** [chaitanyasharma700@gmail.com](mailto:chaitanyasharma700@gmail.com)
+
