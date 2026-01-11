@@ -1,62 +1,64 @@
-# 3D Design & Engineering Portfolio 🚀
-### Hi there, I'm Chaitanya Sharma! 👋
+# 3D Design & Mechanical Engineering Portfolio 🚀
+### 👋 Hi, I'm Chaitanya Sharma
 
-Welcome to my repository of 3D designs, CAD models, and mechanical assemblies. This project showcases my work in **Product Design**, **Mechanical Engineering**, and **Additive Manufacturing**, primarily developed using Autodesk Fusion 360.
-
----
-
-## 🛠 Featured Projects
-
-### 1. Mechanical Assemblies & Industrial Parts
-These projects focus on precision, tolerances, and multi-part functionality.
-
-| Project | Description | Key Skills | Preview |
-| :--- | :--- | :--- | :--- |
-| **Plummer Block Assembly** | A complete heavy-duty bearing housing assembly. | Assembly, Constraints | [Link/Image] |
-| **V Block Assembly** | Precision workholding tool for cylindrical parts. | Technical Drawing | [Link/Image] |
-| **Knuckle Joint** | A classic mechanical joint designed for tensile loads. | Mechanical Design | [Link/Image] |
-
-### 2. Consumer Product Design
-Focusing on ergonomics, aesthetics, and surface modeling.
-
-* **Electric Kettle:** A study in organic shapes and ergonomic handle design.
-* **Computer Mouse:** Advanced surface modeling to ensure comfortable hand-grip geometry.
-* **3D Printed Lampshade:** Designed specifically for **Additive Manufacturing**, focusing on light diffusion and "vase-mode" printability.
+Welcome to my 3D design repository! This project is a collection of my CAD modeling work, ranging from complex automotive engines to ergonomic consumer products. Most designs were developed using **Autodesk Fusion 360**, focusing on mechanical precision, assembly constraints, and aesthetic surface modeling.
 
 ---
 
-## 🔬 Technical Skills & Tools
+## 🛠 Featured Project Categories
 
-* **Software:** Autodesk Fusion 360, SolidWorks.
-* **Manufacturing:** Design for Additive Manufacturing (DfAM), Vat Photopolymerization, Material Extrusion.
-* **Engineering:** Kinematics, Dynamics, Stress Analysis (FEA), and Jacobian Matrix applications in robotics.
+### 1. Automotive & Power Systems
+This section highlights complex mechanical assemblies and kinematic systems.
+
+| Project | File Type | Key Focus |
+| :--- | :--- | :--- |
+| **Engine V6** | `.f3d` | Multi-part assembly, piston timing, and crankshaft kinematics. |
+| **Piston Engine** | `.stl` | Optimized for 3D printing and motion study. |
+
+
+
+### 2. Industrial Mechanical Assemblies
+Precision-engineered parts focusing on industrial standards and tolerances.
+
+* **Plummer Block Assembly:** A heavy-duty bearing housing design focusing on assembly constraints.
+* **Knuckle Joint:** A classic mechanical joint designed to withstand tensile loads.
+* **V-Block Assembly:** Precision work-holding tool design for cylindrical workpieces.
+
+
+
+### 3. Consumer Product Design
+Focusing on ergonomics, surface modeling, and aesthetic appeal.
+
+* **Computer Mouse:** Advanced surface modeling to ensure ergonomic hand-grip geometry.
+* **Electric Kettle:** A study in combining organic shapes with functional design.
+* **3D Printed Lampshade:** Optimized for Additive Manufacturing (Vase mode/Complex lattice diffusion).
+
+
 
 ---
 
-## 📸 Design Gallery
+## 🔬 Technical Skills Showcase
 
-### Mechanical Precision
-<p align="center">
-  <img src="./assets/plummer-block.png" width="45%" alt="Plummer Block" />
-  <img src="./assets/knuckle-joint.png" width="45%" alt="Knuckle Joint" />
-</p>
-
-### Consumer Aesthetics
-<p align="center">
-  <img src="./assets/kettle-render.png" width="45%" alt="Kettle Design" />
-  <img src="./assets/mouse-design.png" width="45%" alt="Mouse Design" />
-</p>
+* **CAD Software:** Autodesk Fusion 360, SolidWorks.
+* **Engineering Concepts:** Kinematic analysis, Interference checking, Tolerances/Fits.
+* **Design for Manufacturing (DfM):** Specific focus on 3D Printing (SLA/FDM) and Assembly line integration.
+* **Surface Modeling:** Creating G2 curvature continuous surfaces for consumer electronics.
 
 ---
 
 ## 📂 Repository Structure
 ```text
-├── Mechanical_Assemblies/
+├── Automotive/
+│   ├── Engine_V6/
+│   └── Piston_Engine/
+├── Industrial_Parts/
 │   ├── Plummer_Block/
-│   └── Knuckle_Joint/
-├── Product_Designs/
-│   ├── Kettle/
+│   ├── Knuckle_Joint/
+│   └── V_Block/
+├── Product_Design/
+│   ├── Computer_Mouse/
+│   ├── Electric_Kettle/
 │   └── Lampshade/
-├── Exercises/
-│   └── CAD_Challenges/
-└── assets/           <-- Place all your images/GIFs here
+└── Learning_Exercises/
+    ├── Exercise_02/
+    └── Exercise_03/
