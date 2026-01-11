@@ -1,63 +1,58 @@
-# 🏎️ Automotive & Mechanical CAD Portfolio
-### Design | Kinematics | Prototyping
+# 🏎️ Automotive & Power Systems Portfolio
+### Mechanical Kinematics | Assembly Design | Engine Logic
 
-Welcome to my automotive engineering repository. This collection features high-fidelity 3D models and mechanical assemblies developed in **Autodesk Fusion 360**, with a primary focus on internal combustion engine components and complex motion systems.
-
----
-
-## 🚀 Featured Project: V6 Internal Combustion Engine
-
-This is a comprehensive assembly of a 6-cylinder engine, focusing on the mechanical synchronization between the crankshaft and the piston groups.
-
-
-
-### Technical Highlights:
-* **Kinematic Constraints:** Fully defined joints for the crankshaft, connecting rods, and pistons.
-* **Interference Checking:** Verified clearances between the counterweights and the engine block.
-* **Components Included:** Pistons, Wrist Pins, Connecting Rods, Crankshaft, and Main Bearings.
-
-
+This directory contains my high-fidelity automotive engineering projects. These models focus on the mechanical synchronization of internal combustion components, precision assembly, and motion study analysis within **Autodesk Fusion 360**.
 
 ---
 
-## 📂 Project Catalog
+## 🚀 Featured Projects
 
-### 1. Piston Engine Prototyping (`.stl`)
-A standalone piston engine model optimized for **Additive Manufacturing (3D Printing)**. 
-* **Design for Assembly (DFA):** Engineered with tolerances suitable for FDM/SLA printing.
-* **Education Focus:** Designed to demonstrate the conversion of reciprocating motion to rotational motion.
+### 1. V6 Internal Combustion Engine (`Engine_V6.f3d`)
+A comprehensive multi-part assembly of a 6-cylinder engine. This project was a deep dive into complex joint constraints and timing logic.
 
-### 2. Industrial Mechanical Assemblies
-Beyond automotive, this repository includes standard industrial mechanical components:
-* **Plummer Block Assembly:** Heavy-duty bearing housing with integrated constraints.
-* **Knuckle Joint:** A study in tensile load distribution and pin-joint mechanics.
-* **V-Block Assembly:** Precision work-holding geometry for quality inspection.
 
----
 
-## 🛠 Technical Skillset
+**Technical Highlights:**
+* **Crankshaft Kinematics:** Fully defined rotational joints with specific stroke lengths for each piston.
+* **Piston Timing:** Modeled to simulate the firing order and reciprocating motion relative to the crankshaft.
+* **Interference Analysis:** Performed to ensure zero collision between counterweights and the engine block during high-speed rotation simulations.
 
-* **Software:** Autodesk Fusion 360, SolidWorks.
-* **CAD Techniques:** Parametric Modeling, Bottom-Up & Top-Down Assembly, Surface Modeling.
-* **Engineering:** Kinematic Motion Studies, Tolerance Stack-up Analysis, DfM (Design for Manufacturing).
 
----
 
-## 📸 Visual Gallery
+### 2. Piston Engine Prototype (`Piston_Engine.stl`)
+A standalone engine model optimized for **Additive Manufacturing** and educational demonstration.
 
-<p align="center">
-  <img src="./assets/v6-engine-render.png" width="45%" alt="V6 Engine View" />
-  <img src="./assets/piston-motion.gif" width="45%" alt="Piston Motion Study" />
-</p>
+* **Design for Assembly (DFA):** Engineered with specific tolerances to allow for 3D printed movement without post-processing.
+* **Sectional Study:** Designed to show the internal mechanism clearly for educational use cases.
+
+
 
 ---
 
-## 📂 Repository Structure
-```text
-├── Automotive/
-│   ├── Engine_V6/            # .f3d Fusion 360 Source
-│   └── Piston_Engine/        # .stl Print-ready files
-├── Industrial_Components/
-│   ├── Plummer_Block/
-│   └── Knuckle_Joint/
-└── Assets/                 
+## 🛠 Engineering Skillset
+
+* **Assembly Logic:** Bottom-up and Top-down design methodologies.
+* **Joint Constraints:** Expertise in Revolute, Slider, and Cylindrical joints for mechanical simulation.
+* **Motion Studies:** Creating animations to verify the mechanical logic of a design before prototyping.
+* **Exploded Views:** Documentation of part relationships and assembly sequences.
+
+
+
+---
+
+## 🚀 How to View My Designs
+
+* **Fusion 360:** Download the `.f3d` files to access the full **Design Timeline**. You can scrub through the history to see the sketches, extrusions, and assembly steps I used to build the engine.
+* **STL Viewer:** The `.stl` files are ready for quick previews or to be imported directly into a 3D printing slicer like Cura or PrusaSlicer.
+
+---
+
+## 📫 Let's Connect!
+
+I am always looking for opportunities to collaborate on Automotive, Robotics, or specialized Mechanical Design projects.
+
+* **GitHub:** [@thechaitanyasharma](https://github.com/thechaitanyasharma)
+* **Email:** [chaitanyasharma700@gmail.com](mailto:chaitanyasharma700@gmail.com)
+
+---
+<p align="center">Built with 🛠️ and passion by Chaitanya Sharma</p>
